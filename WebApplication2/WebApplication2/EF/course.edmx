@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DemoDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Couses">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Title" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CreditHour" Type="int" Nullable="false" />
+          <Property Name="Type" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Table_1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="cid" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Couses_Couses">
+          <End Role="Couses" Type="Self.Couses" Multiplicity="1" />
+          <End Role="Couses1" Type="Self.Couses" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Couses">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Couses1">
+              <PropertyRef Name="Id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Table_1_Table_1">
+          <End Role="Table_1" Type="Self.Table_1" Multiplicity="1" />
+          <End Role="Table_11" Type="Self.Table_1" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Table_1">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="Table_11">
+              <PropertyRef Name="id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DemoDatabaseModelStoreContainer">
+          <EntitySet Name="Couses" EntityType="Self.Couses" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Table_1" EntityType="Self.Table_1" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Couses_Couses" Association="Self.FK_Couses_Couses">
+            <End Role="Couses" EntitySet="Couses" />
+            <End Role="Couses1" EntitySet="Couses" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Table_1_Table_1" Association="Self.FK_Table_1_Table_1">
+            <End Role="Table_1" EntitySet="Table_1" />
+            <End Role="Table_11" EntitySet="Table_1" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DemoDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Cous">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CreditHour" Type="Int32" Nullable="false" />
+          <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Couses1" Relationship="DemoDatabaseModel.FK_Couses_Couses" FromRole="Cous" ToRole="Cous1" />
+          <NavigationProperty Name="Cous1" Relationship="DemoDatabaseModel.FK_Couses_Couses" FromRole="Cous1" ToRole="Cous" />
+        </EntityType>
+        <EntityContainer Name="DemoDatabaseEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Couses" EntityType="Self.Cous" />
+          <EntitySet Name="Table_1" EntityType="DemoDatabaseModel.Table_1" />
+          <AssociationSet Name="FK_Couses_Couses" Association="DemoDatabaseModel.FK_Couses_Couses">
+            <End Role="Cous" EntitySet="Couses" />
+            <End Role="Cous1" EntitySet="Couses" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Table_1_Table_1" Association="DemoDatabaseModel.FK_Table_1_Table_1">
+            <End Role="Table_1" EntitySet="Table_1" />
+            <End Role="Table_11" EntitySet="Table_1" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Table_1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="cid" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Table_11" Relationship="DemoDatabaseModel.FK_Table_1_Table_1" FromRole="Table_1" ToRole="Table_11" />
+          <NavigationProperty Name="Table_12" Relationship="DemoDatabaseModel.FK_Table_1_Table_1" FromRole="Table_11" ToRole="Table_1" />
+        </EntityType>
+        <Association Name="FK_Couses_Couses">
+          <End Type="DemoDatabaseModel.Cous" Role="Cous" Multiplicity="1" />
+          <End Type="DemoDatabaseModel.Cous" Role="Cous1" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Cous">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Cous1">
+              <PropertyRef Name="Id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Table_1_Table_1">
+          <End Type="DemoDatabaseModel.Table_1" Role="Table_1" Multiplicity="1" />
+          <End Type="DemoDatabaseModel.Table_1" Role="Table_11" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Table_1">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="Table_11">
+              <PropertyRef Name="id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DemoDatabaseModelStoreContainer" CdmEntityContainer="DemoDatabaseEntities">
+          <EntitySetMapping Name="Couses">
+            <EntityTypeMapping TypeName="DemoDatabaseModel.Cous">
+              <MappingFragment StoreEntitySet="Couses">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="CreditHour" ColumnName="CreditHour" />
+                <ScalarProperty Name="Type" ColumnName="Type" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Table_1">
+            <EntityTypeMapping TypeName="DemoDatabaseModel.Table_1">
+              <MappingFragment StoreEntitySet="Table_1">
+                <ScalarProperty Name="cid" ColumnName="cid" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,14 @@
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\bin\Debug\DAL.dll.config
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\bin\Debug\DAL.dll
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\bin\Debug\DAL.pdb
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\bin\Debug\EntityFramework.dll
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\bin\Debug\EntityFramework.xml
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\obj\Debug\DAL.dll
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\obj\Debug\DAL.pdb
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\obj\Debug\DAL.Migrations.TrierDB.resources
+E:\SEMISTER11\AP.NET\LAB\TrierApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

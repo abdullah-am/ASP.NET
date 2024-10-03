@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|e:\\semister11\\ap.net\\lab\\task1\\task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\views\\home\\certification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\views\\home\\certification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\views\\home\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\views\\home\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\views\\home\\refer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F679B2-E943-4F38-95C3-B68386A1501E}|task1\\task1.csproj|solutionrelative:task1\\views\\home\\refer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Profile.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Models\\Profile.cs",
+              "RelativeToolTip": "task1\\Models\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:35:39.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Project.cshtml",
+              "RelativeDocumentMoniker": "task1\\Views\\Home\\Project.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Project.cshtml",
+              "RelativeToolTip": "task1\\Views\\Home\\Project.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:15:49.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Education.cshtml",
+              "RelativeDocumentMoniker": "task1\\Views\\Home\\Education.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Education.cshtml",
+              "RelativeToolTip": "task1\\Views\\Home\\Education.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:15:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "task1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "task1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:58:14.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "task1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "task1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:57:43.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "task1\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "task1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:51:42.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Certification.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Certification.cshtml",
+              "RelativeDocumentMoniker": "task1\\Views\\Home\\Certification.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Certification.cshtml",
+              "RelativeToolTip": "task1\\Views\\Home\\Certification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:16:11.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Project.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Models\\Project.cs",
+              "RelativeToolTip": "task1\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:48:03.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Education.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Models\\Education.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Education.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Models\\Education.cs",
+              "RelativeToolTip": "task1\\Models\\Education.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:10:31.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Refer.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Refer.cshtml",
+              "RelativeDocumentMoniker": "task1\\Views\\Home\\Refer.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\task1\\task1\\Views\\Home\\Refer.cshtml",
+              "RelativeToolTip": "task1\\Views\\Home\\Refer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:16:43.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

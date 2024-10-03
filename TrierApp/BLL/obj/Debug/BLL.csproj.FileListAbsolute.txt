@@ -1,0 +1,10 @@
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\bin\Debug\BLL.dll
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\bin\Debug\BLL.pdb
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\bin\Debug\DAL.dll
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\bin\Debug\DAL.pdb
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\bin\Debug\DAL.dll.config
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\obj\Debug\BLL.dll
+E:\SEMISTER11\AP.NET\LAB\TrierApp\BLL\obj\Debug\BLL.pdb

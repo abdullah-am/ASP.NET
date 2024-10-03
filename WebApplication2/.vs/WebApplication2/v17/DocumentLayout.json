@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|e:\\semister11\\ap.net\\lab\\webapplication2\\webapplication2\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\ef\\course.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\ef\\course.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\ef\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\ef\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\ef\\cous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\ef\\cous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\ef\\course.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\ef\\course.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|e:\\semister11\\ap.net\\lab\\webapplication2\\webapplication2\\ef\\course.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\ef\\course.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\ef\\course.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\ef\\course.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\ef\\course.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\ef\\course.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|e:\\semister11\\ap.net\\lab\\webapplication2\\webapplication2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|e:\\semister11\\ap.net\\lab\\webapplication2\\webapplication2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\webapplication2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC33D440-AE02-461F-B8BA-55576486E61C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "course.tt",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.tt",
+              "RelativeDocumentMoniker": "WebApplication2\\EF\\course.tt",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.tt",
+              "RelativeToolTip": "WebApplication2\\EF\\course.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-29T19:37:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "course.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.edmx",
+              "RelativeDocumentMoniker": "WebApplication2\\EF\\course.edmx",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.edmx [Diagram1]",
+              "RelativeToolTip": "WebApplication2\\EF\\course.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-23T07:04:36.211Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cous.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\Cous.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\EF\\Cous.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\Cous.cs",
+              "RelativeToolTip": "WebApplication2\\EF\\Cous.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:47:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "course.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\EF\\course.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.cs",
+              "RelativeToolTip": "WebApplication2\\EF\\course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:33:12.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "course.Context.tt",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.Context.tt",
+              "RelativeDocumentMoniker": "WebApplication2\\EF\\course.Context.tt",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.Context.tt",
+              "RelativeToolTip": "WebApplication2\\EF\\course.Context.tt",
+              "ViewState": "AQIAAM4BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-23T07:33:24.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DTOs\\CourseDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "WebApplication2\\DTOs\\CourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:28:45.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAADwv1wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:25:35.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:20:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:28:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "course.edmx.diagram",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.edmx.diagram",
+              "RelativeDocumentMoniker": "WebApplication2\\EF\\course.edmx.diagram",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.edmx.diagram*",
+              "RelativeToolTip": "WebApplication2\\EF\\course.edmx.diagram*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-23T07:33:20.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "course.Designer.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\EF\\course.Designer.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\EF\\course.Designer.cs",
+              "RelativeToolTip": "WebApplication2\\EF\\course.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:31:06.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication2\\Web.config",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Web.config",
+              "RelativeToolTip": "WebApplication2\\Web.config",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-29T19:36:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Web.config",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Web.config",
+              "RelativeToolTip": "WebApplication2\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-29T19:36:19.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Course\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:23:24.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:26:11.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Global.asax.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication2\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:19:54.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\packages.config",
+              "RelativeDocumentMoniker": "WebApplication2\\packages.config",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\packages.config",
+              "RelativeToolTip": "WebApplication2\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-23T08:19:55.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:20:07.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Course\\Create.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\WebApplication2\\WebApplication2\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Course\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:25:36.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

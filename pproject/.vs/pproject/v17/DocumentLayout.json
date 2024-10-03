@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|e:\\semister11\\ap.net\\lab\\pproject\\pproject\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|solutionrelative:pproject\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|e:\\semister11\\ap.net\\lab\\pproject\\pproject\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|solutionrelative:pproject\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|e:\\semister11\\ap.net\\lab\\pproject\\pproject\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|solutionrelative:pproject\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|e:\\semister11\\ap.net\\lab\\pproject\\pproject\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|solutionrelative:pproject\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|e:\\semister11\\ap.net\\lab\\pproject\\pproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|solutionrelative:pproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|e:\\semister11\\ap.net\\lab\\pproject\\pproject\\ef\\pproject.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|solutionrelative:pproject\\ef\\pproject.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|e:\\semister11\\ap.net\\lab\\pproject\\pproject\\ef\\pproject.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|solutionrelative:pproject\\ef\\pproject.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|e:\\semister11\\ap.net\\lab\\pproject\\pproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A684B63C-6EE2-432F-9028-A1363FF0ADCF}|pproject\\pproject.csproj|solutionrelative:pproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "pproject\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "pproject\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:36:39.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\DTOs\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "pproject\\DTOs\\RegistrationDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\DTOs\\RegistrationDTO.cs",
+              "RelativeToolTip": "pproject\\DTOs\\RegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:56:08.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\EF\\User.cs",
+              "RelativeDocumentMoniker": "pproject\\EF\\User.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\EF\\User.cs",
+              "RelativeToolTip": "pproject\\EF\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:42:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PProject.Context.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\EF\\PProject.Context.cs",
+              "RelativeDocumentMoniker": "pproject\\EF\\PProject.Context.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\EF\\PProject.Context.cs",
+              "RelativeToolTip": "pproject\\EF\\PProject.Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:40:13.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PProject.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\EF\\PProject.edmx",
+              "RelativeDocumentMoniker": "pproject\\EF\\PProject.edmx",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\EF\\PProject.edmx [Diagram1]",
+              "RelativeToolTip": "pproject\\EF\\PProject.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-29T20:02:48.261Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "pproject\\Controllers\\RegistrationController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "pproject\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:54:39.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "pproject\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "pproject\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:52:17.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pproject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\pproject\\pproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pproject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T19:07:17.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

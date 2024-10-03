@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\ef\\demotask.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\ef\\demotask.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|e:\\semister11\\ap.net\\lab\\demotask\\demotask\\dtos\\registdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\dtos\\registdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\controllers\\registcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\registcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\regist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\regist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\auth\\usera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\auth\\usera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\comment\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\comment\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\views\\comment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\views\\comment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\demotask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84AD2B60-15B9-4A2F-8E5F-296E43D96940}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:31:28.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\BlogController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAjwCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:35:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\DTOs\\BlogDTO.cs",
+              "RelativeDocumentMoniker": "DemoTask\\DTOs\\BlogDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\DTOs\\BlogDTO.cs",
+              "RelativeToolTip": "DemoTask\\DTOs\\BlogDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:41:46.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Blog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Blog\\Edit.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Blog\\Edit.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Blog\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:33:00.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Blog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Blog\\Delete.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Blog\\Delete.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Blog\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:33:27.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:25:20.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoTask.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\EF\\DemoTask.edmx",
+              "RelativeDocumentMoniker": "DemoTask\\EF\\DemoTask.edmx",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\EF\\DemoTask.edmx [Diagram1]",
+              "RelativeToolTip": "DemoTask\\EF\\DemoTask.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-03T19:56:08.099Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:45:18.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T23:29:55.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T17:56:23.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\DTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "DemoTask\\DTOs\\CommentDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\DTOs\\CommentDTO.cs",
+              "RelativeToolTip": "DemoTask\\DTOs\\CommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:19:25.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\DTOs\\RegistDTO.cs",
+              "RelativeDocumentMoniker": "DemoTask\\DTOs\\RegistDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\DTOs\\RegistDTO.cs",
+              "RelativeToolTip": "DemoTask\\DTOs\\RegistDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:48:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\RegistController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\RegistController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\RegistController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\RegistController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:25:05.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_adminLayout.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Shared\\_adminLayout.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Shared\\_adminLayout.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Shared\\_adminLayout.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Shared\\_adminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T21:56:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:55:40.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:58:36.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T07:43:45.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Regist\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Regist\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Regist\\Index.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Regist\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:53:35.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\CommentController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:53:08.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\EF\\User.cs",
+              "RelativeDocumentMoniker": "DemoTask\\EF\\User.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\EF\\User.cs",
+              "RelativeToolTip": "DemoTask\\EF\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:40:44.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T18:13:24.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T20:41:22.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:28:00.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Auth\\Logged.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Auth\\Logged.cs",
+              "RelativeToolTip": "DemoTask\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:41:33.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserA.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Auth\\UserA.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Auth\\UserA.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Auth\\UserA.cs",
+              "RelativeToolTip": "DemoTask\\Auth\\UserA.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:20:32.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DemoTask\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DemoTask\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:49:13.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "DemoTask\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:29:43.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Comments.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Comment\\Comments.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Comment\\Comments.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Comment\\Comments.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Comment\\Comments.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T21:58:25.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Comment\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoTask\\Views\\Comment\\Create.cshtml",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Views\\Comment\\Create.cshtml",
+              "RelativeToolTip": "DemoTask\\Views\\Comment\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T20:54:11.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Web.config",
+              "RelativeDocumentMoniker": "DemoTask\\Web.config",
+              "ToolTip": "E:\\SEMISTER11\\AP.NET\\LAB\\DemoTask\\DemoTask\\Web.config",
+              "RelativeToolTip": "DemoTask\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-02T22:26:47.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
